@@ -96,7 +96,7 @@ MIT
 
 ## 👨‍💻 Author
 
-Your Name - [Vanshul](https://github.com/ahlawat000)
+[Vanshul](https://github.com/ahlawat000)
 
 ## 🙏 Acknowledgments
 
